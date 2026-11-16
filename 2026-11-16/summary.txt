@@ -1,0 +1,21 @@
+Autonomy Weekly, for the week of November 9 to 16, 2026. This is the three-minute summary.
+
+Headline one. Tesla's FSD version 14.3.13 is spreading to owners in software build 2026.38.5.13. BASENOR, quoting Teslascope, says waves of thousands of cars received it on Saturday and Sunday. The same report lists a new feature called Automatic Collision Evasion, which can steer to avoid a crash even when FSD is off, and says it was first spotted on a Cybertruck in Florida. These details come from a secondary outlet, so treat them as reported.
+
+Headline two. The Texas register still has Waymo narrowly ahead of Tesla, 1,321 registered vehicles to 1,306, as of just after midnight Central on Monday. Those counts are unchanged from a day earlier. Not a Tesla App says Cybercab rides remain in Austin only, with Dallas planned this month, and that has not happened yet.
+
+Headline three. NVIDIA's founder Jensen Huang resigned as chief executive on November 12. AP and TechCrunch link it to his admitted affair with a woman suspected of spying for China. Chief financial officer Colette Kress is interim CEO, Harvey Jones is the first board chair, and a search is under way. NVIDIA still plans to report results on Tuesday.
+
+Headline four. Baidu reported Monday that Apollo Go is now in 30 cities and has passed 390 million autonomous kilometers. Fully driverless rides in Shenzhen rose about 170 percent from the prior quarter. But online advertising fell 22 percent, and adjusted earnings missed estimates.
+
+Headline five. XPeng reported record revenue of 24.28 billion yuan and guided fourth-quarter deliveries to between 169,000 and 174,000 vehicles. Its robotaxi has approval for Level 4 demonstration operation across Guangzhou, and XPeng says it will act as a technology provider rather than run large fleets.
+
+Headline six. Pony.ai and Toyota put their Gen-7 bZ4X robotaxi into fully driverless commercial service in Guangzhou, with about 1,000 vehicles planned across Chinese cities.
+
+Headline seven. Waymo's expansion hit politics. A city council committee in Washington tied three to three, which stalls the commercial robotaxi bill there. Waymo also confirmed talks about Raleigh and Durham in North Carolina, and the federal school-bus recall query from last week is still open.
+
+Headline eight. In Europe, Finland became the eleventh country to recognise Tesla Assisted Driving. Those countries represent only about 15 percent of the EU population, and an EU-wide vote is not expected before December.
+
+What to watch next week. NVIDIA reports Tuesday, Pony.ai on Wednesday and WeRide on Friday. Watch for Cybercab rides in Dallas, Zoox rides on Uber in Las Vegas, Waymo's response to NHTSA, and NIO's tech day on November 25.
+
+Every claim in this report links to its source on the page. That's the summary.

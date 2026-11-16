@@ -1,0 +1,71 @@
+Autonomy Weekly, deep dive, covering November 9 to 16, 2026. We start with Tesla, then compare it with the competition, and then go theme by theme: robotaxis, consumer driver assistance, chips and compute, China, regulation and safety, software updates, and deals.
+
+Part one. Tesla FSD and Robotaxi.
+
+Last week's big Tesla news was Cybercab pre-orders, Cybertruck's end date and the San Antonio launch. This week was quieter on announcements and heavier on rollout. Start with software. Tesla's build 2026.38.5.13 began reaching cars on November 13. BASENOR, quoting Teslascope fleet counts, reports it was first spotted on a Cybertruck all-wheel-drive in Florida, and that on Saturday and Sunday it moved in waves, roughly 5,700 cars in one five-minute window and about 17,400 in another. The build carries FSD Supervised version 14.3.13 for eligible AI4 vehicles, a security update, and a feature called Automatic Collision Evasion. According to BASENOR, that is an active safety system that can steer, not just brake, to avoid or soften an imminent collision, and it works whether or not FSD is engaged. That is a secondary source quoting social posts, and we could not open Tesla's own release notes, so treat the details as reported.
+
+On FSD version 15, Not a Tesla App says Tesla had planned round-the-clock Robotaxi alongside a fleet-wide version 15 rollout in October. That slipped by a few weeks, and Tesla has not said whether version 15 now runs across the whole Robotaxi fleet. We have found no customer release of version 15.
+
+Now the fleet scoreboard. The Texas register, checked just after midnight Central on Monday, shows Waymo with 1,321 registered automated vehicles and Tesla Robotaxi with 1,306. Avride has 344, Aurora 91, Gatik 64 and Zoox 63, out of 3,452 vehicles from 17 companies. Both Waymo and Tesla counts are the same as a day earlier, so the race is flat this week. Registered means allowed to operate, which is not the same as out driving.
+
+Robotaxi now runs around the clock in all eight Tesla cities: Austin, San Antonio, Houston, Fort Worth, Dallas, Miami, Orlando and Tampa. Not a Tesla App traces the climb from six in the morning to ten at night in August, to round the clock this week. Musk said earlier that the hard part was spotting animals at night, in his words grey kittens on grey tarmac in the dark. Cybercab rides are still limited to Austin. Tesla said in October that Dallas would get unsupervised Cybercab rides in November, with no exact date, and as of today we have found no launch.
+
+There is a regulatory footnote on the Cybercab. Where's the Driver reports that NHTSA opened an audit query on September 3 into Tesla's self-certification that a car with no steering wheel complies with federal standards. Tesla's response was due October 30, and we found no public outcome. For owners, Tesla's AI chief Ashok Elluswamy said a personally owned Cybercab will work unsupervised in all the same areas as Robotaxi, serving the owner's needs. Musk said the 299 dollar monthly fee should be closer to 115 dollars.
+
+A reminder that Tesla's driver-assist product is also under federal review. NHTSA's engineering analysis, opened in July, asks whether FSD detects and warns drivers when glare, fog or dust degrades the cameras, and cites nine crashes. It is open, and it is not a recall.
+
+Benzinga's weekly roundup adds two lighter items. Musk predicted Cybercab will dominate ride-hailing where Robotaxi can operate commercially, and the tuner Unplugged Performance offered to take over the remaining Cybertruck line and build a three-row SUV from it. Neither is a Tesla commitment.
+
+Part two. How Tesla compares.
+
+On robotaxis, Tesla runs eight cities with round-the-clock service and 1,306 registered vehicles in Texas. Waymo has 14 cities with public riders as of its last blog post, with CARC reporting 15 this week, a fleet above 4,000 as of September, and 1,321 registered in Texas. Zoox is public in Las Vegas, now including Downtown and the Arts District, with about 150 vehicles nationally according to its chief executive. Baidu Apollo Go is in 30 cities with more than 390 million autonomous kilometers. WeRide reports about 1,800 robotaxis within a fleet of 3,600 vehicles in 13 countries. Pony.ai put a Toyota-built robotaxi into driverless service on Monday.
+
+On consumer driver assistance, Tesla's FSD is point-to-point and hands-free including city streets, and is subscription-only in North America. GM's Super Cruise is hands-free on mapped highways and heads to Europe in mid-December. Rivian is the closest follower: it has an invitation-only early access program, and its CEO says point-to-point driving reaches employees and then customers in the coming weeks and months, with details at an event on December 9. Mercedes plans a broad point-to-point rollout early next year and BMW plans navigation-guided city assistance in Germany from 2027. In China, Huawei's ADS 5 is now standard on every variant of the updated Aito M8, BYD's Denza N8 launched with God's Eye lidar-based assistance, and Li Auto pushed an over-the-air update with a new perception model.
+
+Part three. Robotaxis and Level 4 beyond Tesla.
+
+Waymo. NHTSA's recall query, opened November 9, covers nearly 3,000 vehicles. Austin's school district documented 19 violations, five of them after the November 2025 fix, and Waymo says it has had no citations since March. This week the politics turned. A District of Columbia council committee tied three to three on November 12, so the commercial robotaxi bill did not advance. Waymo keeps mapping Northern Virginia with human drivers but says it has no plan for commercial service there. CARC reports a Waymo policy adviser told a North Carolina summit that the company is in talks about Raleigh and Durham, with Charlotte expected by late 2027. Waymo also published how its driver handles snow and ice, with sensor heaters and small wipers, and said it may shrink or pause service when conditions leave the validated range.
+
+Zoox moved beyond the Strip on November 11 into Downtown and the Arts District, running from six in the morning to three at night, with a newer vehicle on the road. It also signed on as the Las Vegas Grand Prix's autonomous ride-hail partner, with rides starting in 2027. Uber's chief executive said Zoox rides on Uber begin later this month in Las Vegas.
+
+Baidu's Apollo Go reached 30 cities as of October. It drove about 34 million autonomous kilometers in the third quarter and more than 390 million in total. Shenzhen driverless rides rose about 170 percent from the second quarter, Dubai doubled its fleet, and London testing with Uber and Lyft continues.
+
+Pony.ai and Toyota launched the Gen-7 bZ4X Robotaxi in fully driverless commercial service in Guangzhou on Monday, bookable all day. The first mass-produced unit rolled off the line in February, and about 1,000 are planned.
+
+WeRide reports about 3,600 autonomous vehicles in 13 countries, and launched a global insurance program with Allianz Singapore and Ping An on November 2.
+
+In Europe, Einride and Lorenz started four cab-less trucks at a private factory site in Germany, and Munich's MINGA automated bus carries passengers from November 17 with safety staff aboard.
+
+Part four. Chips and compute.
+
+The shock of the week is at NVIDIA. On November 12 the company said Jensen Huang resigned as president, chief executive and director, effective immediately. AP and TechCrunch tie it to his admitted affair with Alice Huang, a former executive at Megaspeed in Singapore who is suspected of spying for China. Chief financial officer Colette Kress is interim chief executive while remaining CFO. Harvey Jones, on the board since 1993, becomes its first chair. The BBC lists Chris Malachowsky, Rene Haas and Ian Buck among names mentioned as possible successors, which is analyst speculation, not an announcement. TechCrunch notes China was about 8 percent of second-quarter revenue, around 7.9 billion dollars. Third-quarter results are still scheduled for Tuesday, November 17. NVIDIA no longer reports Automotive as its own segment, so watch its Edge Computing line, which was 7.2 billion dollars last quarter.
+
+Mobileye reported third-quarter revenue of 492 million dollars, down 2 percent, and nudged up the low end of its guidance. Its CEO targets about 100 driverless vehicles near Orlando in 2027, bets on cameras plus imaging radar over LiDAR, and said Volkswagen's CARIAD is building a second source to Mobileye.
+
+Infineon and Qualcomm signed an agreement on November 2 to add an Infineon safety microcontroller subsystem to Qualcomm's Snapdragon Ride platforms for central car computers. XPeng's robotaxi runs on four of its own Turing chips delivering 3,000 TOPS.
+
+Part five. China.
+
+Baidu's revenue was 30.8 billion yuan, down 1 percent. Online marketing fell 22 percent, AI cloud infrastructure rose 94 percent, and adjusted earnings per share of 6.78 yuan missed the 7.67 consensus. XPeng reported record revenue of 24.28 billion yuan, up 19 percent, with 118,390 deliveries and a net loss of 870 million yuan. Vehicle margin recovered to 13.1 percent, and it guided fourth-quarter deliveries to 169,000 to 174,000. Its robotaxi, branded XPENG YOYO, is approved for Level 4 demonstration operation across Guangzhou by invitation code, and it is in advanced talks with several European mobility platforms. NIO holds its tech day on November 25 and delivered 34,246 cars in October, down 15 percent from a year earlier.
+
+Part six. Regulation and safety.
+
+In Europe, Finland became the eleventh country to recognise the Dutch approval of Tesla Assisted Driving. Automotive World says those eleven are only about 15 percent of the EU population. A vote needs 15 states and 65 percent, and even with Germany and Italy Tesla would reach only about 47 percent. The RDW approved cutting the speed offset from 50 percent to 10 percent on November 3. The earliest EU vote is likely December, and a second route opens in early 2027 under a new UN regulation.
+
+In Washington, NHTSA extended the comment period on its lighting-standard proposal for vehicles without manual controls by 15 days, to December 10. It would let such vehicles skip turn-signal and hazard controls and allow cyan marker lamps on automated vehicles. In Congress, the SELF DRIVE Act cleared a House subcommittee 12 to 11 in February, and we found no newer action this week.
+
+Part seven. Software and over-the-air updates.
+
+Beyond Tesla's build, Li Auto's update 9.2 went live November 6 with a 3D perception model and Apple CarPlay. Sina Tech reported it covers the new L9, L8, L6, MEGA, i9 and 2026 i6, but we did not find Li Auto's own release note.
+
+Part eight. Funding and deals.
+
+Uber expects about 700 robotaxis on its platform by year-end and more than 2,000 in 2027. Its Bay Area launch with Nuro and Lucid slipped to the first quarter of 2027. Aurora's shareholder letter reported more than 500,000 driverless miles and a memorandum for 500 trucks with Charger Logistics, with deliveries in 2027 and 2028.
+
+Part nine. Our read.
+
+First, NVIDIA's leadership shock is the largest industry story, and the sources show no automotive product change yet. Tuesday's call is the first test. Second, the Tesla and Waymo gap in Texas is just 15 registered vehicles, and round-the-clock service plus a Dallas Cybercab launch could move it. Third, Chinese operators scale through partners and mass-produced vehicles, while Tesla and Waymo build their own fleets. Fourth, Europe's hurdle for Tesla is political arithmetic as much as software.
+
+What to watch next week. NVIDIA on Tuesday, Pony.ai on Wednesday, WeRide on Friday, Cybercab in Dallas, Zoox on Uber in Las Vegas, Waymo's reply to NHTSA, and NIO's tech day on November 25. Beyond that, Rivian's December 9 event and the December 10 comment deadline.
+
+That's the deep dive. Every claim links to its source on the page.

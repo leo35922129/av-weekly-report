@@ -1,0 +1,286 @@
+{
+ "date": "2026-11-16",
+ "window": "Nov 9 – Nov 16, 2026",
+ "title": "Autonomy Weekly: AV, automotive AI & SDV",
+ "lead": "NVIDIA founder Jensen Huang resigned as CEO on Nov 12 after reports of an affair with a suspected Chinese intelligence asset, leaving the leading AV compute supplier under an interim CEO going into Tuesday's earnings. For Tesla, the Texas fleet race is still neck and neck (Waymo 1,321 registered vs Tesla 1,306), FSD v14.3.13 is reaching owners' trucks with a new collision-evasion feature, and Cybercab rides in Dallas have not started yet.",
+ "src": {
+  "basenor": [
+   "BASENOR, Nov 13 (updated Nov 15)",
+   "https://www.basenor.com/blogs/news/tesla-update-2026-38-5-13"
+  ],
+  "nata_247": [
+   "Not a Tesla App, Nov 12",
+   "https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city"
+  ],
+  "evwire_tracker": [
+   "EVwire Tracker, Nov 16",
+   "https://tracker.evwire.com/charts/operators"
+  ],
+  "evcom_sa": [
+   "EV.com, Nov 10",
+   "https://ev.com/news/tesla-robotaxi-san-antonio-starts-november-9"
+  ],
+  "reuters_cybercab": [
+   "Reuters via Indian Express, Nov 15",
+   "https://indianexpress.com/article/technology/tech-news-technology/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-10963999/"
+  ],
+  "gettesla": [
+   "GetTesla, Nov 14",
+   "https://gettesla.com/articles/personal-cybercab-will-drive-unsupervised-in-robotaxi-zones-tesla-ai-chief-says"
+  ],
+  "benz_tsla": [
+   "Benzinga, Nov 15",
+   "https://www.benzinga.com/markets/tech/26/11/63277093/this-week-in-tsla-24-7-robotaxis-cybertruck-based-suv-10-billion-solar-bet-and-more"
+  ],
+  "wtd_dallas": [
+   "Where's the Driver, Nov 1",
+   "https://wheresthedriver.com/news/2026/11/01/tesla-plans-dallas-cybercab-rides/"
+  ],
+  "nhtsa_ea": [
+   "NHTSA letter EA26002, Jul 2",
+   "https://static.nhtsa.gov/odi/inv/2026/INIM-EA26002-14414.pdf"
+  ],
+  "aw_finland": [
+   "Automotive World, Nov 11",
+   "https://www.automotiveworld.com/news/tesla-wins-finland-fsd-still-lacks-the-eus-biggest-votes/"
+  ],
+  "nvda_pr": [
+   "NVIDIA press release, Nov 12",
+   "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
+  ],
+  "tc_huang": [
+   "TechCrunch, Nov 12",
+   "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+  ],
+  "ap_huang": [
+   "AP, Nov 12",
+   "https://apnews.com/article/jensen-huang-resigns-nvidia-017d4af2ad194ec2981d661663da9f9b"
+  ],
+  "bbc_kress": [
+   "BBC, Nov 12",
+   "https://www.bbc.com/news/articles/cqgm37dv20e8o"
+  ],
+  "nvda_8k": [
+   "StockTitan NVDA 8-K filings",
+   "https://www.stocktitan.net/sec-filings/NVDA/8-k.html"
+  ],
+  "vio_nvda": [
+   "Vio Labs NVIDIA preview, Nov 14",
+   "https://violabs.co.uk/notes/nvidia-q3-fiscal-2027-results-preview/"
+  ],
+  "baidu_q3": [
+   "Baidu Q3 2026 release, Nov 16",
+   "https://www.prnewswire.com/news-releases/baidu-announces-third-quarter-2026-results-302940183.html"
+  ],
+  "inv_baidu": [
+   "Investing.com, Nov 16",
+   "https://www.investing.com/news/earnings/baidu-q3-adjusted-profit-misses-as-ad-slump-outweighs-ai-cloud-surge-5028770"
+  ],
+  "xpeng_q3": [
+   "CnEVPost, Nov 16",
+   "https://cnevpost.com/2026/11/16/xpeng-q3-2026-earnings/"
+  ],
+  "xpeng_l4": [
+   "XPeng press release, Oct 26",
+   "https://www.xpeng.com/pressroom/news/01a1780feba5a12024aa8a02829e04fd"
+  ],
+  "pony_toyota": [
+   "Pony.ai blog, Nov 16",
+   "https://blog.pony.ai/pony-ai-and-toyota-launch-fully-driverless-commercial-services-with-gen-7-bz4x-robotaxi/"
+  ],
+  "pony_earn": [
+   "Pony.ai IR, Oct 20",
+   "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-report-third-quarter-2026-financial-results-november"
+  ],
+  "weride_earn": [
+   "WeRide IR",
+   "https://ir.weride.ai/news-releases/news-release-details/weride-report-third-quarter-2026-financial-results-friday"
+  ],
+  "weride_ins": [
+   "Just Auto, Nov 2",
+   "https://www.just-auto.com/news/weride-unveils-insurance-partnership-for-autonomous-vehicles/"
+  ],
+  "wjla": [
+   "WJLA, Nov 12",
+   "https://wjla.com/news/local/waymo-hits-roadblock-dc-driverless-cars-robotaxis-washington-council-northern-virginia-arlington-alexandria-janeese-lewis-george-transportation-labor-protections-public-safety"
+  ],
+  "carc_nc": [
+   "CARC, Nov 13",
+   "https://www.carc.com/news/waymo-raleigh-durham-talks-november-2026"
+  ],
+  "streetinsider": [
+   "Reuters via StreetInsider, Nov 9",
+   "https://www.streetinsider.com/Reuters/US+opens+new+probe+into+Waymo+vehicles+over+school+bus+safety+violations/27310395.html"
+  ],
+  "tc_waymo": [
+   "TechCrunch, Nov 9",
+   "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/"
+  ],
+  "latimes_waymo": [
+   "Los Angeles Times, Nov 3",
+   "https://www.latimes.com/business/story/2026-11-03/waymo-expands-to-torrance-manhattan-beach-other-corners-of-la-county"
+  ],
+  "amb46": [
+   "Autonomous Mobility Briefing KW46, Nov 12",
+   "https://autonomous-mobility-briefing.ghost.io/autonomous-mobility-briefing-newsletter-kw46/"
+  ],
+  "zoox_dn": [
+   "Driverless.news, Nov 12",
+   "https://www.driverless.news/article/zoox-las-vegas-downtown-arts-district"
+  ],
+  "uber_scd": [
+   "Smart Cities Dive, Nov 6",
+   "https://www.smartcitiesdive.com/news/uber-ceo-outlines-growth-plans-for-robotaxis/873801/"
+  ],
+  "servospace": [
+   "ServoSpace, Nov 4",
+   "https://servospace.io/news/lucid-uber-nuro-gravity-robotaxi-bay-area-launch-delayed-q1-2027"
+  ],
+  "mobileye": [
+   "Israel Electronics News, Nov 2",
+   "https://techtime.news/2026/11/02/mobileye-25/"
+  ],
+  "aurora": [
+   "Aurora Q3 shareholder letter, Oct 28",
+   "https://www.sec.gov/Archives/edgar/data/1828108/000182810826000092/aurora26q3shareholderlet.htm"
+  ],
+  "li_ota": [
+   "SDV Sector, Nov 9",
+   "https://sdvsector.com/news/2026-11-09-li-auto-ota-9-2-3d-vit-perception-carplay"
+  ],
+  "aito_m8": [
+   "CnEVPost, Nov 13",
+   "https://cnevpost.com/2026/11/13/aito-launches-updated-m8/"
+  ],
+  "denza": [
+   "China AI Wire, Nov 12",
+   "https://chinaaiwire.com/news/denza-n8-launch-driver-assistance-gods-eye-20261112"
+  ],
+  "nio_day": [
+   "CnEVPost, Nov 4",
+   "https://cnevpost.com/2026/11/04/nio-to-hold-nio-in-2026-tech-day-nov-25-guangzhou/"
+  ],
+  "infineon": [
+   "Infineon, Nov 2",
+   "https://www.infineon.com/press-release/2026/infpr202611-023"
+  ],
+  "fmvss108": [
+   "Federal Register, Nov 16",
+   "https://www.federalregister.gov/documents/2026/11/16/2026-23239/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped"
+  ],
+  "ec_selfdrive": [
+   "House Energy & Commerce, Feb 10",
+   "https://energycommerce.house.gov/posts/cmt-subcommittee-forwards-motor-vehicle-safety-and-automotive-leadership-bills-to-full-committee"
+  ],
+  "ev_rivian": [
+   "EV.com, Oct 21",
+   "https://ev.com/news/rivian-opens-early-access-to-point-to-point-hands-free-driving"
+  ],
+  "waymo14": [
+   "Waymo blog, Aug 31",
+   "https://careers.withwaymo.com/blogs/89e712be-5d4a-48b3-a945-b60090823408/welcoming-our-first-riders-in-denver-san-diego-and-tampa"
+  ],
+  "tc_waymo_sep": [
+   "TechCrunch, Sep 1",
+   "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/"
+  ],
+  "cnbc_rivian": [
+   "CNBC, Nov 10",
+   "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html"
+  ],
+  "sc_eu": [
+   "InsideEVs, Nov 9",
+   "https://insideevs.com/news/814815/gm-super-cruise-cadillac-europe/"
+  ],
+  "mb": [
+   "InsideEVs, Nov 9",
+   "https://insideevs.com/features/814729/mercedes-drive-assist-pro/"
+  ],
+  "bmw": [
+   "BMW Group, Nov 2",
+   "https://newsroom.bmwgroup.com/global/bmw-to-expand-urban-driver-assistance-functions-from-2027/"
+  ],
+  "gm_eyesoff": [
+   "CNBC, Oct 12",
+   "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html"
+  ],
+  "nata_ap": [
+   "Not a Tesla App, Nov 11",
+   "https://www.notateslaapp.com/news/4988/exclusive-musk-cut-basic-autopilot-from-new-vehicles-to-boost-fsd-subscriptions"
+  ],
+  "teslascope": [
+   "Teslascope",
+   "https://teslascope.com/software/full-self-driving/14.3.13"
+  ],
+  "traficom": [
+   "Traficom, Nov 11",
+   "https://www.traficom.fi/en/news/teslas-driver-assistance-system-now-permitted-finnish-roads"
+  ],
+  "nata_eu": [
+   "Not a Tesla App, 2026.39.100",
+   "https://www.notateslaapp.com/software-updates/version/2026.39.100/release-notes"
+  ],
+  "abc7": [
+   "ABC7, Nov 12",
+   "https://abc7news.com/post/video-driverless-waymo-tries-bypass-chp-traffic-break-san-francisco-freeway/20036828/"
+  ],
+  "baidu": [
+   "AI Weekly, Nov 4",
+   "https://aiweekly.co/alerts/baidu-unveils-apollo-world-to-train-apollo-go-robotaxis"
+  ],
+  "wsj_zoox": [
+   "WSJ Tech News Briefing transcript, Nov 11",
+   "https://exa.ai/library/podcast/sqnfbmn3j3f/episode/mlp0lwbtx2c"
+  ],
+  "rj_zoox": [
+   "Las Vegas Review-Journal, Nov 12",
+   "https://www.reviewjournal.com/local/traffic/zoox-offering-updated-las-vegas-service-area-vehicles-and-operating-hours-3913486/"
+  ],
+  "zoox_atl": [
+   "Zoox, Nov 13",
+   "https://zoox.com/journal/atlanta-expansion-robotaxi"
+  ],
+  "zoox_lv": [
+   "Zoox, Nov 11",
+   "https://zoox.com/journal/las-vegas"
+  ],
+  "coreweave": [
+   "CoreWeave IR",
+   "https://investors.coreweave.com/news/news-details/2026/CoreWeave-to-Power-Wayves-AI-Driver-Training-in-Multi-Year-Agreement/default.aspx"
+  ],
+  "wayve": [
+   "Automotive World, Nov 9",
+   "https://www.automotiveworld.com/news/wayve-to-train-ai-driver-on-coreweave-in-multi-year-deal/"
+  ],
+  "huawei": [
+   "IT之家, Nov 13",
+   "https://www.ithome.com/1/026/957.htm"
+  ],
+  "byd_data": [
+   "IT之家, Nov 14",
+   "https://www.ithome.com/1/027/076.htm"
+  ],
+  "tab": [
+   "The Manchester Tab, Nov 12",
+   "https://thetab.com/2026/11/12/self-driving-taxis-are-coming-to-manchester-heres-what-we-know"
+  ],
+  "pony_blog": [
+   "Pony.ai blog, Nov 5",
+   "https://blog.pony.ai/scaling-autonomous-mobility-pony-ai-ceo-james-peng-on-global-expansion-partnerships-and-the-economics-of-robotaxis/"
+  ]
+ },
+ "audio": {
+  "summary": {
+   "file": "summary.mp3",
+   "duration_s": 204.504,
+   "label": "3:24",
+   "title": "3-min summary"
+  },
+  "deep": {
+   "file": "deep-dive.mp3",
+   "duration_s": 833.64,
+   "label": "13:53",
+   "title": "10-min deep dive"
+  }
+ }
+}
